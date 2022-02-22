@@ -1,0 +1,23 @@
+{
+  "name": "napleton_its",
+  "version": "1.0.0",
+  "description": "Simple application to facilitate and ecourage proper usage of IT services.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmolucha/Driver.git"
+  },
+  "author": "Jakub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmolucha/Driver/issues"
+  },
+  "homepage": "https://github.com/jsmolucha/Driver#readme",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}
